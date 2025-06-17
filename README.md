@@ -120,9 +120,7 @@ REFRESH_TOKEN=your_refresh_token
 MONGO_URI=mongodb+srv://<Username>:<password>@cluster0.mongodb.net/gmailDB?retryWrites=true&w=majority
 ````
 
-> ⚠️ **Never commit `.env` to GitHub**
 
----
 
 ## 🛠 Run Locally
 
@@ -176,6 +174,6 @@ This project is for educational and experimental use. Not intended for productio
 
 ## 🙌 Credits
 
-Developed with 💡 by \[Rahul]
+Developed with 💡 by \Rahul
 
 
