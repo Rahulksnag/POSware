@@ -174,6 +174,6 @@ This project is for educational and experimental use. Not intended for productio
 
 ## 🙌 Credits
 
-Developed with 💡 by \Rahul
+Developed with 💡 by Rahul
 
 
